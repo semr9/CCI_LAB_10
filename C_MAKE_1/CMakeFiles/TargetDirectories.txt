@@ -1,0 +1,3 @@
+/home/sebastian/Documents/C-Make/CCI_LAB_10/C_MAKE_1/CMakeFiles/edit_cache.dir
+/home/sebastian/Documents/C-Make/CCI_LAB_10/C_MAKE_1/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/C-Make/CCI_LAB_10/C_MAKE_1/CMakeFiles/lab10.dir

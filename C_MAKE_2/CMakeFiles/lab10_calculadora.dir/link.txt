@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/lab10_calculadora.dir/lab10_calculadora.cpp.o  -o lab10_calculadora 
